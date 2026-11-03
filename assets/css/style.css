@@ -664,6 +664,7 @@ footer hr{
         width: 100%;
         max-width: 380px;
         height: 145px;
+        box-shadow: 0 -100px 300px #66bebcb3;
     }
 
     .hero-border {
@@ -1074,6 +1075,7 @@ footer hr{
         width: 100%;
         max-width: 380px;
         height: 145px;
+        box-shadow: 0 -100px 300px #239f9b84;
     }
 
     .hero-border {
@@ -1484,6 +1486,7 @@ footer hr{
         width: 100%;
         max-width: 720px;
         height: 160px;
+        box-shadow: 0 -100px 300px #239f9b84;
     }
 
     .hero-border {
@@ -1894,7 +1897,7 @@ nav{
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    box-shadow: 0 -100px 300px #239f9be6;
+    box-shadow: 0 -100px 300px #239f9b84;
 }
 .hero-border{
     width: 920px;
@@ -2369,7 +2372,7 @@ footer .offer{
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    box-shadow: 0 -100px 300px #239f9be6;
+    box-shadow: 0 -100px 300px #239f9b84;
 }
 .hero-border{
     width: 920px;
