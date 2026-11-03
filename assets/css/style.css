@@ -543,12 +543,16 @@ footer hr{
     display: block;
     line-height: 0;
     background-color:#EAFAF9 ;
+    width: 40px;
+    height: 40px;
     padding: 10px;
     border-radius: 50%;
 }
 .social-icons a img{
-    width: 24px;
-    height: 24px;
+    line-height: 0;
+    width: 21px;
+    height: 21px;
+    display: block;
 }
 .social-icons a:hover{
     cursor: pointer;
@@ -564,8 +568,8 @@ footer hr{
 }
 .footer-info2 button{
     border: none;
-    width:44px;
-    height: 44px;
+    width:56px;
+    height: 56px;
     border-radius: 50%;
     background-color: #8C8C8C;
     box-shadow: 0px 4px 26px 0 #423E3A59 ;
@@ -979,7 +983,9 @@ footer hr{
     }
     .footer-info2 button{
         position: absolute;
-        top:-90px ;
+        width: 36px;
+        height: 36px;
+        top:-75px ;
         left: 90%; 
         transform: translateX(-50%); 
     }
@@ -1385,10 +1391,14 @@ footer hr{
         position: relative;
     }
     .footer-info2 button{
+        .footer-info2 button{
         position: absolute;
-        top:-90px ;
+        width: 36px;
+        height: 36px;
+        top:-75px ;
         left: 90%; 
         transform: translateX(-50%); 
+    }
     }
 
     .footer-info2 ul {
@@ -1784,7 +1794,7 @@ section.destinations{
     }
     .footer-info2 button{
         position: absolute;
-        top:-80px ;
+        top:-92px ;
         left: 90%; 
         transform: translateX(-50%); 
     }
@@ -2471,7 +2481,7 @@ footer .offer{
     bottom: 0;
     left: 50%;
     transform: translateX(-50%);
-    box-shadow: 0 -100px 300px #239f9be6;
+    box-shadow: 0 -100px 300px #239f9b84;
 }
 .hero-border{
     width: 920px;
